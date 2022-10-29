@@ -1,0 +1,10 @@
+C:\Users\novra\OneDrive\Desktop\UpCasting-DownCasting-Boxing-Unboxing\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\novra\OneDrive\Desktop\UpCasting-DownCasting-Boxing-Unboxing\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\novra\OneDrive\Desktop\UpCasting-DownCasting-Boxing-Unboxing\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\novra\OneDrive\Desktop\UpCasting-DownCasting-Boxing-Unboxing\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\novra\OneDrive\Desktop\UpCasting-DownCasting-Boxing-Unboxing\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novra\OneDrive\Desktop\UpCasting-DownCasting-Boxing-Unboxing\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\novra\OneDrive\Desktop\UpCasting-DownCasting-Boxing-Unboxing\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\novra\OneDrive\Desktop\UpCasting-DownCasting-Boxing-Unboxing\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\novra\OneDrive\Desktop\UpCasting-DownCasting-Boxing-Unboxing\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\novra\OneDrive\Desktop\UpCasting-DownCasting-Boxing-Unboxing\Service\obj\Debug\netcoreapp3.1\Service.pdb
